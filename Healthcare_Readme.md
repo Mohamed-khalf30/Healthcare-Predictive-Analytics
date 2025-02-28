@@ -43,9 +43,3 @@ This project aims to develop a **Healthcare Predictive Analytics System** using 
 ## Repository
 Check out the full project on GitHub: [Healthcare Predictive Analytics](https://github.com/Mohamed-khalf30/Healthcare-Predictive-Analytics)
 
-   pip install -r requirements.txt
-   ```
-3. Run the notebook to train and evaluate the model.
-
----
-### 🔥 Feel free to contribute or raise issues! 🚀
