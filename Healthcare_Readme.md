@@ -43,18 +43,6 @@ This project aims to develop a **Healthcare Predictive Analytics System** using 
 ## Repository
 Check out the full project on GitHub: [Healthcare Predictive Analytics](https://github.com/Mohamed-khalf30/Healthcare-Predictive-Analytics)
 
-## Future Improvements
-- Improve feature engineering to enhance model accuracy.
-- Implement deep learning approaches (CNN, RNN) for more robust classification.
-- Deploy the model as a web application using **Flask** or **FastAPI**.
-
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Mohamed-khalf30/Healthcare-Predictive-Analytics.git
-   ```
-2. Install dependencies:
-   ```bash
    pip install -r requirements.txt
    ```
 3. Run the notebook to train and evaluate the model.
